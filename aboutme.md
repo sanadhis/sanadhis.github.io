@@ -21,7 +21,7 @@ My works are mostly related to *Software Engineering*, *DevOps Engineering*, and
 **École polytechnique fédérale de Lausanne ([EPFL](https://www.epfl.ch/schools/ic/))**, 2017-2019 <br>
 Master degree in Computer science.
 
-**Universitas Indonesian ([UI](https://eng.ui.ac.id/en/))**, 2012-2016 <br>
+**Universitas Indonesia ([UI](https://eng.ui.ac.id/en/))**, 2012-2016 <br>
 Bachelor degree in Computer engineering.
 
 ### Work experiences
